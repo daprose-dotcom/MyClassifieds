@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to MyClassifieds
 
-You can use the [editor on GitHub](https://github.com/daprose-dotcom/MyClassifieds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a start up template for any ASP.NET project.  It includes a more elaborated and complete user's authentication system than the one created and provided by Visual Studio, it has an extended authentication system with email verification, a password recovery and a both an automatic and a manual account verification system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A great start up template for begginers.
+
+Mean while, I can keep learning how to use this [editor on GitHub](https://github.com/daprose-dotcom/MyClassifieds/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
+
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my [Markdown files].
 
 ### Markdown
 
